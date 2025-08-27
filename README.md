@@ -1,8 +1,6 @@
-### Build a GAN to Generate Faces Using CelebA Dataset
+### Building a GAN to Generate Faces Using CelebA Dataset
 
-#### Youtube tutorial (English): https://youtu.be/fonfLzvBBQU
 
-#### Youtube tutorial (Hindi): https://youtu.be/JXT0mTfTyFs
 
 #### Dataset download link: https://drive.google.com/uc?id=0B7EVK8r0v71pZjFTYXZWM3FlRnM
 
